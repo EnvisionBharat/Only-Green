@@ -1,0 +1,6 @@
+{
+  "name": "Only Green",
+  "description": "India's First Hedge Fund-Led Investment Operating System. Built on three integrated pillars: The Fund, The Technology, and The Community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
